@@ -1,7 +1,7 @@
 # ascii-fun
 A bunch of fun programs for playing around with the ASCII-art.
 
-## Use for Image to Ascii-art conversion -
+## Use img2ascii.py for Image to Ascii-art conversion -
  
 ```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
