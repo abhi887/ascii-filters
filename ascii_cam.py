@@ -100,16 +100,13 @@ def main():
         rval, frame = vc.read()
     else:
         rval = False
-    
-    #counter=0
+
     while rval:
         cv2.imshow("preview", frame)
         rval, frame = vc.read()
         #if(counter%2==0):
         aimg = covertImageToAscii(frame, 100, 0.45, False)
         os.system('cls')
-        #if(counter>100):
-             #   counter=0
         for row in aimg:
             print(row)
         key = cv2.waitKey(20)
