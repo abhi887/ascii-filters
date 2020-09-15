@@ -1,7 +1,7 @@
 # ascii-fun
 A bunch of fun programs for playing around with the ASCII-art.
 
-## Image to Ascii-art conversion 
+##  :camera:  Image to Ascii-art conversion
  
 ```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -28,8 +28,12 @@ A bunch of fun programs for playing around with the ASCII-art.
 %%%%%%%%%@%@%%%%@%%%%%@%%%%@@@@@@@@@@@%%@@@@@@@@%%%%%%%%%%%%%%%##*%#*%%%%%%%%%%%
 %%%%%%%%@@%@@%%@@%%%%@%%%%@@@@@@@@@@@@%@@@@@@@@%%%%%%%%%%%%%%%%%@#%%##%%%%%%%%%%
 ```
-## Realtime video to ascii-art conversion
+##  :video_camera:  Realtime video to ascii-art conversion
 
-<img src="screen_capture.gif" alt="screen capture">
+<img src="screen_capture.gif" alt="ascii_cam.py screen capture">
+
+##  :loop:  gif to ascii-art conversion
+
+<img src="gif2ascii_trial.gif" alt="gif2ascii.py screen capture">
 
 ### Try it out and have fun
