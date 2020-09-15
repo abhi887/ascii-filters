@@ -3,7 +3,6 @@ This program cannot save the gif converted to ascii to an actual gif file
 instead it'll print the output to the console. If you have an idea about 
 exporting the converted art please open a issue or create a pull request.
 '''
-
 import cv2
 import sys, random, argparse 
 import numpy as np 
