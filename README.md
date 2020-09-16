@@ -1,7 +1,8 @@
-# ascii-fun
-A bunch of fun programs for playing around with the ASCII-art.
+# ASCII-filter
+Convert Images, videos and gifs into ASCII art or animation. 
 
 ##  :camera:  Image to Ascii-art conversion
+#####  `img2ascii.py`
  
 ```
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -29,10 +30,13 @@ A bunch of fun programs for playing around with the ASCII-art.
 %%%%%%%%@@%@@%%@@%%%%@%%%%@@@@@@@@@@@@%@@@@@@@@%%%%%%%%%%%%%%%%%@#%%##%%%%%%%%%%
 ```
 ##  :video_camera:  Realtime video to ascii-art conversion
+##### `ascii_cam.py`
+
 
 <img src="screen_capture.gif" alt="ascii_cam.py screen capture">
 
 ##  :loop:  gif to ascii-art conversion
+##### `gif2ascii.py`
 
 <img src="gif2ascii_trial.gif" alt="gif2ascii.py screen capture">
 
